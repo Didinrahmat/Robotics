@@ -1,0 +1,5 @@
+RULE PEMROGRAMAN STM32F411RE untuk KRTMI 2024 :
+> Dilarang mengotak-atik variabel yang ditetapkan pada USER CODE BEGIN PV
+> Dilarang memodifikasi Fungsi pada USER CODE BEGIN 0
+> Dilarang memodifikasi Fungsi pada USER CODE BEGIN 2
+> Improvisasi program hanya berlaku pada USER CODE BEGIN 3
